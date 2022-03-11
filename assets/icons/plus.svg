@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="plus" transform="translate(-308 -203)">
+    <g id="Rectangle_580" data-name="Rectangle 580" transform="translate(308 203)" fill="#9f111b" stroke="#fff" stroke-width="1">
+      <rect width="21" height="21" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" rx="4.5" fill="none"/>
+    </g>
+    <g id="ant-design:plus-outlined" transform="translate(313.25 208.25)">
+      <path id="Vector" d="M.082,0H.7A.073.073,0,0,1,.779.082V7.3A.073.073,0,0,1,.7,7.383H.082A.073.073,0,0,1,0,7.3V.082A.073.073,0,0,1,.082,0Z" transform="translate(4.86 1.559)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M.082,0H6.973a.073.073,0,0,1,.082.082V.7a.073.073,0,0,1-.082.082H.082A.073.073,0,0,1,0,.7V.082A.073.073,0,0,1,.082,0Z" transform="translate(1.723 4.86)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

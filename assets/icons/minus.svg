@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="minus" transform="translate(-258 -203)">
+    <g id="Rectangle_580" data-name="Rectangle 580" transform="translate(258 203)" fill="#f3f6f7" stroke="#a11822" stroke-width="1">
+      <rect width="21" height="21" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" rx="4.5" fill="none"/>
+    </g>
+    <g id="ant-design:plus-outlined" transform="translate(263.25 208.25)">
+      <path id="Vector" d="M.082,0H6.973a.073.073,0,0,1,.082.082V.7a.073.073,0,0,1-.082.082H.082A.073.073,0,0,1,0,.7V.082A.073.073,0,0,1,.082,0Z" transform="translate(1.723 4.86)" fill="#a11a23"/>
+    </g>
+  </g>
+</svg>
