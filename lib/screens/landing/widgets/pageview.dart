@@ -6,6 +6,7 @@ import 'package:hamd_user/constants/colors.dart';
 import 'package:hamd_user/constants/fonts.dart';
 import 'package:hamd_user/screens/auth/singup/auth_screen.dart';
 import 'package:hamd_user/screens/landing/widgets/pageview_item.dart';
+import 'package:hamd_user/screens/static_page/static_page_screen.dart';
 
 class MyPageView extends StatefulWidget {
   @override
@@ -103,7 +104,8 @@ class _MyPageViewState extends State<MyPageView> {
                           elevation: 0,
                           color: ColorPalatte.nextButtonColor,
                           onPressed: () => currentPage == 2
-                              ? Get.to(() => const AuthScreen())
+                              ? Get.to(() => const StaticPageScreen())
+                              // ? Get.to(() => const AuthScreen())
                               : _pageController.nextPage(
                                   duration: const Duration(milliseconds: 500),
                                   curve: Curves.ease,
@@ -127,7 +129,9 @@ class _MyPageViewState extends State<MyPageView> {
                       currentPage == 2
                           ? Container()
                           : TextButton(
-                              onPressed: () => Get.to(() => const AuthScreen()),
+                              onPressed: () =>
+                                  Get.to(() => const StaticPageScreen()),
+                              // onPressed: () => Get.to(() => const AuthScreen()),
                               // onPressed: () => _pageController.animateToPage(
                               //       2,
                               //       duration: Duration(milliseconds: 500),

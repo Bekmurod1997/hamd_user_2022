@@ -76,6 +76,42 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163203932936:android:69c816f94bcc2e6fda02bd",
+        "android_client_info": {
+          "package_name": "uz.hamd_user2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163203932936-a5vfh6j9caom0imql97bpc8a79gqgbcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgu4HAf14OY4fenD_yhkPqrMjQdVqB6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163203932936-a5vfh6j9caom0imql97bpc8a79gqgbcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "163203932936-hedvk7udlncn684gbk97i3m4b2eqoggo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.hamd-user"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

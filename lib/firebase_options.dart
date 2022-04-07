@@ -54,7 +54,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '163203932936',
     projectId: 'hamd-c7df5',
     storageBucket: 'hamd-c7df5.appspot.com',
-    iosClientId: '163203932936-ucrqg73er9n4t69csmq0s0vk7pqf58de.apps.googleusercontent.com',
+    iosClientId:
+        '163203932936-ucrqg73er9n4t69csmq0s0vk7pqf58de.apps.googleusercontent.com',
     iosBundleId: 'uz.hamdUser',
   );
 }
